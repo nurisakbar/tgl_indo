@@ -1,0 +1,17 @@
+{
+    "name": "nuris/tglindo",
+    "description": "fungsi untuk mengubah tanggal menjadi format indonesia",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nuris\\Tglindo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nuris akbar"
+        }
+    ],
+    "require": {}
+}
